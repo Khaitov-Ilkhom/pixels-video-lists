@@ -1,2 +1,2 @@
-const $imageGrid = document.querySelector("#image-grid")
-const $previewImage = document.querySelector("#preview-video")
+const $videoGrid = document.querySelector("#video-grid")
+const $previewVideo = document.querySelector("#preview-video")
